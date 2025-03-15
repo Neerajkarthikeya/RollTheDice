@@ -22,7 +22,7 @@ On each page refresh, two dice roll randomly, and a heading updates to declare t
 
 ## 📂 Installation & Usage  
 
-1. **Clone the reposi**  
+1. **Clone the repository**  
    ```bash
    git clone https://github.com/Neerajkarthikeya/RollTheDice.git
 2. **Open index.html in a browser**
