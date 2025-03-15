@@ -27,5 +27,5 @@ On each page refresh, two dice roll randomly, and a heading updates to declare t
    git clone https://github.com/Neerajkarthikeya/RollTheDice.git
 2. **Open index.html in a browser**
 
-3. Refresh the page to roll the dice
+3. **Refresh the page to roll the dice**
 
